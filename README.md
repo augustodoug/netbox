@@ -18,3 +18,5 @@ Netbox é uma super ferramento para gerenciar a sua infraestrutrua. O Netbox com
 
 Disponível como software de código aberto sob a licença Apache 2.0, o NetBox é empregado por milhares de organizações em todo o mundo.
 
+# Instalação 
+Para esta instalação, eu utilizei o Debian Bullseye 11.x. 
