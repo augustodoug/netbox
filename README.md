@@ -1,6 +1,8 @@
-https://raw.githubusercontent.com/netbox-community/netbox/develop/docs/netbox_logo.svg
+<div align="center">
+  <img src="https://raw.githubusercontent.com/netbox-community/netbox/develop/docs/netbox_logo.svg" width="400" alt="NetBox logo" />
+</div>
 
-## netbox
+
 Netbox é uma super ferramento para gerenciar a sua infraestrutrua. O Netbox combina gerenciamento de IP (IPAM) e gerenciamento de infraestrutua (DCIM) com APIs e extensões poderosas.
 
 # O que é IPAM?
