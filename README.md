@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/netbox-community/netbox/develop/docs/netbox_logo.svg
+
 ## netbox
 Netbox é uma super ferramento para gerenciar a sua infraestrutrua. O Netbox combina gerenciamento de IP (IPAM) e gerenciamento de infraestrutua (DCIM) com APIs e extensões poderosas.
 
